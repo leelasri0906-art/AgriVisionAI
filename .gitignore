@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+frontend/node_modules/
+frontend/dist/
+backend/artifacts/*.pt
+backend/artifacts/classes.json
+backend/uploads/*
+!backend/uploads/.gitkeep
+data/
+reports/
+.DS_Store
